@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Colors -->
+    <color name="purple_700">#667eea</color>
+    <color name="purple_500">#764ba2</color>
+    <color name="purple_200">#B39DDB</color>
+
+    <!-- Neutral Colors -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="gray">#CCCCCC</color>
+    <color name="gray_dark">#999999</color>
+    <color name="gray_light">#F0F0F0</color>
+
+    <!-- Status Colors -->
+    <color name="red">#FF6B6B</color>
+    <color name="green">#51CF66</color>
+    <color name="yellow">#FFD93D</color>
+    <color name="orange">#FF922B</color>
+
+    <!-- Semantic Colors -->
+    <color name="success">#51CF66</color>
+    <color name="error">#FF6B6B</color>
+    <color name="warning">#FFD93D</color>
+    <color name="info">#667eea</color>
+
+    <!-- Background Colors -->
+    <color name="background_primary">#FAFAFA</color>
+    <color name="background_secondary">#F5F5F5</color>
+
+    <!-- Text Colors -->
+    <color name="text_primary">#333333</color>
+    <color name="text_secondary">#666666</color>
+    <color name="text_hint">#AAAAAA</color>
+
+</resources>

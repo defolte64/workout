@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Fitness Tracker</string>
+    <string name="app_title">Фитнес Трекер</string>
+
+    <!-- Auth Screen Strings -->
+    <string name="login_title">Вход</string>
+    <string name="register_title">Регистрация</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Пароль</string>
+    <string name="login_button">Войти</string>
+    <string name="register_button">Зарегистрироваться</string>
+
+    <!-- Main Screen Strings -->
+    <string name="my_workouts">Мои тренировки</string>
+    <string name="search_placeholder">Поиск упражнений</string>
+    <string name="add_workout">Добавить тренировку</string>
+    <string name="logout_button">Выход</string>
+    <string name="statistics">Статистика</string>
+
+    <!-- Workout Screen Strings -->
+    <string name="workout_title">Название тренировки</string>
+    <string name="duration">Продолжительность (мин)</string>
+    <string name="calories">Сожжено калорий</string>
+    <string name="save">Сохранить</string>
+    <string name="cancel">Отмена</string>
+
+    <!-- Categories -->
+    <string-array name="categories">
+        <item>Кардио</item>
+        <item>Силовая тренировка</item>
+        <item>Йога</item>
+        <item>Растяжка</item>
+        <item>Функциональная тренировка</item>
+        <item>Пилатес</item>
+        <item>Кроссфит</item>
+        <item>Танцы</item>
+        <item>Плавание</item>
+        <item>Велосипед</item>
+    </string-array>
+
+    <!-- Intensities -->
+    <string-array name="intensities">
+        <item>Низкая</item>
+        <item>Средняя</item>
+        <item>Высокая</item>
+    </string-array>
+
+    <!-- Error Messages -->
+    <string name="error_empty_fields">Заполните все поля</string>
+    <string name="error_invalid_email">Введите корректный email</string>
+    <string name="error_password_mismatch">Пароли не совпадают</string>
+    <string name="error_password_short">Пароль должен быть минимум 6 символов</string>
+    <string name="error_invalid_values">Значения должны быть больше 0</string>
+    <string name="error_number_format">Введите числовые значения</string>
+
+    <!-- Success Messages -->
+    <string name="success_login">Успешный вход!</string>
+    <string name="success_register">Регистрация успешна!</string>
+    <string name="success_save">Тренировка сохранена!</string>
+    <string name="success_logout">Вы вышли из аккаунта</string>
+
+</resources>
