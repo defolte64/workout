@@ -54,7 +54,7 @@
     <string name="error_invalid_values">Значения должны быть больше 0</string>
     <string name="error_number_format">Введите числовые значения</string>
 
-    <!-- Success Messages -->
+
     <string name="success_login">Успешный вход!</string>
     <string name="success_register">Регистрация успешна!</string>
     <string name="success_save">Тренировка сохранена!</string>
